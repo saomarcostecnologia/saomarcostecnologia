@@ -30,7 +30,7 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Com paixão por tecnologia:computer:, viagens :palm_tree::v: e transformação, meu trabalho é impulsionado pela busca de insights valiosos e pela disponibilidade de dados para gerar impacto positivo em pessoas e empresas.
 
 ### Linguagens mais usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saomarcostecnologia)](https://github.com/saomarcostecnologia/github-readme-stats)
