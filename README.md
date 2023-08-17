@@ -32,3 +32,5 @@ Com paixão por tecnologia:computer:, viagens :palm_tree::v: e transformação, 
 
 ### Linguagens mais usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saomarcostecnologia)](https://github.com/saomarcostecnologia/github-readme-stats)
+
+![snake gif](https://github.com/saomarcostecnologia/saomarcostecnologia/blob/output/github-contribution-grid-snake.svg)
