@@ -1,8 +1,8 @@
 ## Eae! Eu sou o Gabriel São Marcos 🖐️
-### Bem vindo ao meu Perfil! :v:
+### Bem-vindo ao meu Perfil! :v:
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=saomarcostecnologia&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saomarcostecnologia&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saomarcostecnologia&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
@@ -28,7 +28,7 @@
   <img align="center" alt="microsoft" src="https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div><br/>
 
-Com paixão por tecnologia:computer:, viagens :palm_tree::v: e transformação, meu trabalho é impulsionado pela busca de insights valiosos e pela disponibilidade de dados para gerar impacto positivo em pessoas e empresas.
+Com paixão por tecnologia 💻, viagens 🌴🛫 e transformação, meu trabalho é impulsionado pela busca de insights valiosos e pela disponibilidade de dados para gerar impacto positivo em pessoas e empresas.
 
 ### Linguagens mais usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saomarcostecnologia)](https://github.com/saomarcostecnologia/github-readme-stats)
