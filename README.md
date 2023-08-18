@@ -38,9 +38,3 @@ Com paixão por tecnologia:computer:, viagens :palm_tree::v: e transformação, 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saomarcostecnologia/saomarcostecnologia/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saomarcostecnologia/saomarcostecnologia/output/github-contribution-grid-snake.svg">
 </picture>
-
-**interactive demo**
-
-<a href="https://platane.github.io/snk">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
-</a>
