@@ -34,9 +34,9 @@ Com paixão por tecnologia:computer:, viagens :palm_tree::v: e transformação, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saomarcostecnologia)](https://github.com/saomarcostecnologia/github-readme-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eugeniogdiniz/eugeniogdiniz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eugeniogdiniz/eugeniogdiniz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eugeniogdiniz/eugeniogdiniz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saomarcostecnologia/saomarcostecnologia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saomarcostecnologia/saomarcostecnologia/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saomarcostecnologia/saomarcostecnologia/output/github-contribution-grid-snake.svg">
 </picture>
 
 **interactive demo**
